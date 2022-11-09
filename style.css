@@ -1,0 +1,50 @@
+.main{
+border: black, white,#F9CD2B, white;
+border:4px;
+
+}
+.sub1{
+background-color: #F9CD2B;
+}
+.sub2{
+background-color: black;
+height: 300px;
+}
+body{
+    background-color: #F9CD2B;
+    border: black, white,#F9CD2B, white;
+    
+}
+.two{
+    text-align: center;
+}
+.three{
+    text-align: center;
+}
+@media screen and (min-width: 300px) and (max-width: 480px)
+{
+    .main{
+        border: black, white,#F9CD2B, white;
+        border:4px;
+        
+        }
+        .sub1{
+        background-color: #F9CD2B;
+        }
+        .sub2{
+        background-color: black;
+        height: 300px;
+        }
+        body{
+            background-color: #F9CD2B;
+            border: black, white,#F9CD2B, white;
+            padding: 15px;
+            
+        }
+        .two{
+            text-align: center;
+        }
+        .three{
+            text-align: center; 
+        }
+}
